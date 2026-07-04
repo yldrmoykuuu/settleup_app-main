@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "65672822021",
+    "firebase_url": "https://settleupp-958f1-default-rtdb.firebaseio.com",
+    "project_id": "settleupp-958f1",
+    "storage_bucket": "settleupp-958f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65672822021:android:74d144f9bcef98edae8b6c",
+        "android_client_info": {
+          "package_name": "com.example.settleup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_LeGJ1n6yeIZui3ZBjHZBtt8Q7RPud-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65672822021:android:124f34dabeeb98a7ae8b6c",
+        "android_client_info": {
+          "package_name": "com.oykuyildirim.settleup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_LeGJ1n6yeIZui3ZBjHZBtt8Q7RPud-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
